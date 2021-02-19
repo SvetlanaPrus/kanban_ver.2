@@ -2,6 +2,19 @@
   text-align: center;
 }
 
+.myBackground{
+  background-color: lightgray;
+  margin: 20px;
+  padding-inline: 50px;
+  padding-top: 20px;
+}
+
+.card{
+  margin-bottom: 8px;
+  padding: 8px;
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
